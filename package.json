@@ -2,6 +2,7 @@
   "name": "projects",
   "version": "1.0.0",
   "main": "index.js",
+  "packageManager": "pnpm",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
